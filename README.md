@@ -1,3 +1,5 @@
+Hey Yall, below is the create-react-app stuff, but I think you should be able to just have node version 8.12.0 and do npm install, and then npm start and this should run
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
