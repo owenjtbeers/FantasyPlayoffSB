@@ -1,0 +1,15 @@
+.playerRow {
+  display: flex;
+}
+
+.playerName {
+  width: 150px;
+}
+
+.total {
+  display: flex;
+}
+
+.playerTable {
+  display: "flex";
+}
